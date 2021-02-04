@@ -1,0 +1,42 @@
+Spotify Analysis
+
+Team Members:
+* Kasey Wilson
+* Sarah Klein
+* Chase Webb
+* Brad Medford
+
+Project Description/Outline
+* We plan to utilize a dataset for Spotify in order to understand what trends we can 
+   uncover in the popularity of the songs and artists on Spotify. Ultimately what factors 
+    makes a song popular? Is there any correlation between certain factors in a song and 
+    whether or not listeners respond to it favorably? 
+
+Research Questions to Answer
+* What are the most popular genres and artists? 
+* What are the most popular genres and artists for each decade? 
+* How are ratings skewed? (i.e. what percentage fall into different ratings)
+* What artists by genre (diversity by genre)
+* Which artists have the most tracks on Spotify? 
+* What's the correlation between popularity and the following:
+    * Length of Track
+    * Danceability score
+    * Explicit
+    * Release Date 
+    * Artist 
+    * Mode 
+
+Datasets to Be Used
+* https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
+
+Rough Breakdown of Tasks
+* Create repository and branches 
+* Review the multiple CSV files to understand data available and determine relevant data points 
+* Merge data from the CSV files we will utilize 
+* Clean any fields that have missing data points
+* Format ultimate Datasets
+* In Jupyter notebook use Matplotlib to provide visuals of the data
+* Save images of visualization 
+* Analyze data with the information gathered and collect findings 
+* Create presentation based on our findings 
+* Provide summary report of findings 
